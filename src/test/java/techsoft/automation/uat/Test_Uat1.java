@@ -7,6 +7,7 @@ public class Test_Uat1 {
 		// Mohan's code
 		
 		System.out.println("Mohan's code!");
+		System.out.println("pratap's code!");
 
 	}
 
